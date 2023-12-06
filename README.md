@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @RohanShirsalkar
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React JS
-- 📫 Reach me vai email : rshirsalkar5@gmail.com
+Web developer with a passion for building intuitive and seamless applications. Well-versed in the realms of React.js, Node.js, Angular, and Bootstrap, I thrive on turning innovative ideas into functional code. A collaborative team player, I bring a blend of creativity and technical expertise to every project. Keen on staying at the forefront of technology trends, I'm committed to continuous learning and exploration. Let's collaborate and bring ideas to life in the digital realm! 🌐✨
+
+👋 Hi, I’m @RohanShirsalkar
+📫 Reach me via email: rshirsalkar5@gmail.com
+
+Skills:
+
+React.js, Node.js, Angular, Bootstrap, Git
+
+Interests:
+
+Frontend Development, UI/UX Design, Gamming
 
 <!---
 RohanShirsalkar/RohanShirsalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
